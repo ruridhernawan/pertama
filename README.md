@@ -1,1 +1,2 @@
-"# pertama" 
+"# pertama"
+kedua gmail
